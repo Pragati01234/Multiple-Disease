@@ -69,5 +69,5 @@ All the datasets were used from kaggle.
 ## Links for Python Notebooks used for model creation
 
 - [Diabetes Notebook](https://github.com/Pragati01234/Multiple-Disease/blob/main/Diabetes_model_for_API.ipynb)
-- [Breast Cancer Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Cancer_Prediction.ipynb)
+- [Parkinson Disease Notebook](https://github.com/Pragati01234/Multiple-Disease/blob/main/Multiple_disease_prediction_system_Parkinsons.ipynb)
 - [Heart Disease Notebook](https://github.com/Pragati01234/Heart-Disease/blob/main/Heart_Disease_project.ipynb)
