@@ -71,3 +71,4 @@ All the datasets were used from kaggle.
 - [Diabetes Notebook](https://github.com/Pragati01234/Multiple-Disease/blob/main/Diabetes_model_for_API.ipynb)
 - [Parkinson Disease Notebook](https://github.com/Pragati01234/Multiple-Disease/blob/main/Multiple_disease_prediction_system_Parkinsons.ipynb)
 - [Heart Disease Notebook](https://github.com/Pragati01234/Heart-Disease/blob/main/Heart_Disease_project.ipynb)
+- [Breast cancer Classification Notebook] (https://github.com/Pragati01234/Breast-Cancer-Classification/blob/main/Breast_Cancer_Classification.ipynb)
